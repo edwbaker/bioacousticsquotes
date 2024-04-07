@@ -51,3 +51,7 @@ src:Warren Weaver
 cit:1949 The Mathematical Theory of Communication
 tag:communication
 
+quo:By the warm sunshine, and the jocund voice, Of insects—chirping out their careless lives, On these soft beds of thyme-besprinkled turf
+src:William Wordsworth
+cit:The Excursion
+tag:entomology,poetry
