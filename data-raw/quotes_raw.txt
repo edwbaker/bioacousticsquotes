@@ -1,0 +1,47 @@
+% quotes_raw.txt
+
+% This file is a collection of quote blocks formatted like this (but without the percent signs):
+
+% quo:A lot of data science and analytics is just counting things and labeling them.
+% src:Hamdan Azhar
+% cit:2022 New York R Conference
+% url:https://youtu.be/W5EkEuaa_Mk
+% tag:data science
+
+% Lines beginning with "%" are comments.
+% Blank lines are ignored.
+
+% In each quote block, the first line should be for the "quo:"
+% The "tag:" line can have multiple tags, separated by commas
+
+% tags can be anything, but here are some to pick from:
+% entomology
+% listening
+% physics
+% pulse
+% terminology
+
+% ---------------------------------------------------------------------------
+% This section of quotes was contributed by Ed Baker
+
+quo:The casual reader may be interested to inquire how the efforts of a specialist in physics and communication engineering become directed to the study of insects. The answer might be that anyone who is ignorant has the obligation to seek enlightenment.
+src:G. W. Pierce
+cit:1948 The Songs of Insects
+url:https://medium.ebaker.me.uk/bioacoustic-pioneers-g-w-pierce-ca088d9e3b69
+tag:physics,entomology
+
+quo:Pulse is surely the most ill-used term ever taken over by the bio-acoustician 
+src:Broughton
+cit:1963 Busnel
+url:https://medium.ebaker.me.uk/bioacoustic-pioneers-g-w-pierce-ca088d9e3b69
+tag:pulse,terminology
+
+quo:Seuketat is the Eskimo word for ear-of-the-animal. This is what we must become if we want to truly listen.
+src:Gordon Hempton
+cit:Earth is a Solar Powered Jukebox
+tag:listening
+
+quo:How can we listen for something that we have not yet heard? We can't. When we listen in this way, selectively, we are actually practicing controlled impairment.
+src:Gordon Hempton
+cit:Earth is a Solar Powered Jukebox
+tag:listening

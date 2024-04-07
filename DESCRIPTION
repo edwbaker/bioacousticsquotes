@@ -1,0 +1,31 @@
+Package: bioacousticsquotes
+Title: Quotes on Bioacoustics
+Version: 0.0.1
+Authors@R: c(person("Ed", "Baker", 
+                    email = "ed@ebaker.me.uk", 
+                    role = c("aut", "cre"),
+                    comment = c(ORCID = "0000-0002-5887-9543", Twitter="@edwbaker"))
+            )
+Language: en-GB
+Description: Generates a random quotation from a database of quotes on topics
+    in bioacoustics.
+Depends:
+    R (>= 3.5.0)
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+Maintainer: Ed Baker <ed@ebaker.me.uk>
+BugReports: https://github.com/edwbaker/bioacousticsquotes/issues
+URL: https://github.com/edwbaker/bioacousticsquotes
+Imports: stringr,
+    tidytext,
+    wordcloud
+RoxygenNote: 7.3.1
+Suggests: 
+    fortunes,
+    knitr,
+    rmarkdown,
+    dplyr,
+    forcats,
+    ggplot2
+VignetteBuilder: knitr
