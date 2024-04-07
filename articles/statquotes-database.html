@@ -42,7 +42,7 @@
   <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-expanded="false" aria-haspopup="true" id="dropdown-articles">Articles</a>
   <div class="dropdown-menu" aria-labelledby="dropdown-articles">
     <a class="dropdown-item" href="../articles/statquotes-database.html">Creating, updating &amp; maintaining the bioacousticsquotes data base</a>
-    <a class="dropdown-item" href="../articles/statquotes.html">Quotes on Statistics, Data Visualization and Science</a>
+    <a class="dropdown-item" href="../articles/statquotes.html">Full list of quotes on bioacoustics and ecoacoustics</a>
   </div>
 </li>
       </ul>
@@ -81,7 +81,7 @@
 <div class="sourceCode" id="cb1"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://github.com/edwbaker/bioacousticsquotes" class="external-link">bioacousticsquotes</a></span><span class="op">)</span></span></code></pre></div>
 <div class="section level2">
-<h2 id="primary-format-for-quotes-file">Primary format for quotes file<a class="anchor" aria-label="anchor" href="#primary-format-for-quotes-file"></a>
+<h2 id="fformat-for-quotes-file">Fformat for quotes file<a class="anchor" aria-label="anchor" href="#fformat-for-quotes-file"></a>
 </h2>
 <p>The quotes are stored in the <code>data-raw/quotes_raw.txt</code>
 file. The script <code>data-raw/convert_quotes_to_rda.R</code> can be
@@ -96,8 +96,7 @@ quo: This is a quotation.
 src: Person or persons who said or wrote the quote.
 cit: Citation for the original quote.
 url: URL where the quote can be found (such as journal articles).
-tag: Comma-separated tags to categorize the quote.
-tex: TeX-formatted citation</code></pre>
+tag: Comma-separated tags to categorize the quote.</code></pre>
 <p>Here is an example:</p>
 <pre><code>quo: A judicious man looks at Statistics, not to get knowledge, but to save himself from having ignorance foisted on him.
 src: Thomas Carlyle
@@ -105,30 +104,7 @@ cit: Chartism, 1840, Chapter II, Statistics
 url: https://en.wikisource.org/wiki/Chartism/Chapter_2
 tag: data visualization</code></pre>
 </div>
-<div class="section level2">
-<h2 id="latex-format-for-quotes-file">LaTeX format for quotes file<a class="anchor" aria-label="anchor" href="#latex-format-for-quotes-file"></a>
-</h2>
-<p>The <code>bioacousticsquotes</code> package originally arose from a
-LaTeX file, that Michael Friendly used to collect interesting quotations
-related to statistics, data visualization, history, software and other
-topics. This was designed to be a collection that a person could search,
-then copy/paste an appropriate one into a working LaTeX document. The
-format of quotes was designed to use the LaTeX <code>epigraph</code>
-package:</p>
-<pre><code>\epigraph{You can see a lot, just by looking.}{Yogi Berra}
-\epigraph{Every picture tells a story.}{Rod Stewart, 1971}
-\epigraph{A picture is worth a thousand words.}{F. Barnard, 1927}</code></pre>
-<p>Each quote has some <code>text</code> and a <code>source</code>
-attribution, and so could be displayed in a document something like</p>
-<blockquote>
-<p><em>You can see a lot, just by looking.</em> — Yogi Berra</p>
-</blockquote>
-<p>Some of the quotes have manually-added <code>tags</code> to classify
-the quotes into groups. As many tags as desired can be added to a
-quote.</p>
-</div>
-  </main><aside class="col-md-3"><nav id="toc"><h2>On this page</h2>
-    </nav></aside>
+  </main>
 </div>
 
 
