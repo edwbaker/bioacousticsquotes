@@ -45,8 +45,8 @@ A convenient wrapper for search quotes that by default returns all quotes
 }
 \examples{
 search_quotes("^D") # regex to find all quotes that start with "D"
-search_quotes("Tukey") # all quotes with "Tukey"
-search_quotes("Turkey", fuzzy = TRUE) # fuzzy match
+search_quotes("Hempton") # all quotes with "Tukey"
+search_quotes("Henpton", fuzzy = TRUE) # fuzzy match
 
 # to a data.frame
 out <- search_quotes("bad data", fuzzy = TRUE)
