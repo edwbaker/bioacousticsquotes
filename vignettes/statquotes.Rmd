@@ -1,8 +1,8 @@
 ---
-title: "Quotes on Statistics, Data Visualization and Science"
+title: "Full list of quotes on bioacoustics and ecoacoustics"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{Quotes on Statistics, Data Visualization and Science}
+  %\VignetteIndexEntry{Full list of quotes on bioacoustics and ecoacoustics}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
