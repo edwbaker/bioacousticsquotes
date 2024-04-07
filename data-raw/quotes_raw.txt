@@ -30,7 +30,7 @@ cit:1948 The Songs of Insects
 url:https://medium.ebaker.me.uk/bioacoustic-pioneers-g-w-pierce-ca088d9e3b69
 tag:physics,entomology
 
-quo:Pulse is surely the most ill-used term ever taken over by the bio-acoustician 
+quo:Pulse is surely the most ill-used term ever taken over by the bio-acoustician
 src:Broughton
 cit:1963 Busnel
 url:https://medium.ebaker.me.uk/bioacoustic-pioneers-g-w-pierce-ca088d9e3b69
@@ -45,3 +45,9 @@ quo:How can we listen for something that we have not yet heard? We can't. When w
 src:Gordon Hempton
 cit:Earth is a Solar Powered Jukebox
 tag:listening
+
+quo:The word communication will be used here in a very broad sense to include all of the procedures by which one mind may affect another.
+src:Warren Weaver
+cit:1949 The Mathematical Theory of Communication
+tag:communication
+
