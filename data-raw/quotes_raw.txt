@@ -55,3 +55,28 @@ quo:By the warm sunshine, and the jocund voice, Of insects—chirping out their 
 src:William Wordsworth
 cit:The Excursion
 tag:entomology,poetry
+
+quo:Many of us don’t distinguish between the acts of listening and hearing.
+src:Bernie Krause
+cit:The Great Animal Orchestra
+tag:listening
+
+quo:I had always used my ears as filters - for shutting noise out - rather than as portals allowing large amounts of information in.
+src:Bernie Krause
+cit:The Great Animal Orchestra
+tag:listening
+
+quo:Sound, because it is so intimate, immediate, and physical, is probably the most influential of our senses
+src:Bernie Krause
+cit:Wild Soundscapes
+tag:listening
+
+quo:A great silence is spreading over the natural world even as the sound of man is becoming deafening.
+src:Bernie Krause
+cit:The Great Animal Orchestra
+tag:silence,anthropophony
+
+quo:Our problem is that sound is not important in our culture. We know the world from the visual, not from the other senses. I had to be taught other ways of understanding.
+src:Bernie Krause
+tag:listening
+
