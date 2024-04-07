@@ -1,15 +1,9 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
-^tex
 ^.*\.png$
 README.md
 ^cran-comments\.md$
-^\.travis\.yml$
 ^CRAN-SUBMISSION$
 ^data-raw
-^old-code
-^old_code
-^CONTRIBUTING.md
-
 ^doc$
 ^Meta$
