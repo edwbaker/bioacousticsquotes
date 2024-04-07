@@ -26,7 +26,7 @@ a word cloud based upon that filter.
 }
 \examples{
 quote_cloud()
-quote_cloud(search = "graph")
+quote_cloud(search = "Hempton")
 quote_cloud(max.words = 10)
 
 }

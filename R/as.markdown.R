@@ -19,7 +19,7 @@
 #' @seealso \code{\link{as.data.frame.bioacousticsquote}}, \code{\link{as.latex}}
 #' @examples
 #'
-#' ll <- search_quotes("Tukey")
+#' ll <- search_quotes("Hempton")
 #' as.markdown(ll)
 #'
 as.markdown <- function(quotes,
@@ -57,7 +57,7 @@ as.markdown <- function(quotes,
 #'
 #' @seealso \code{\link{as.data.frame.bioacousticsquote}}, \code{\link{as.latex}}, \code{\link{as.markdown}}
 #' @examples
-#' qitems <- search_quotes("Yates")
+#' qitems <- search_quotes("Hempton")
 #' cat(as.tagged(qitems[1:5,]))
 #'
 as.tagged <- function(quotes, qid=TRUE) {

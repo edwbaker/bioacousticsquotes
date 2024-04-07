@@ -25,7 +25,7 @@ format via the \code{\link{sprintf}} function.
 }
 \examples{
 
-ll <- search_quotes("Tukey")
+ll <- search_quotes("Hempton")
 as.latex(ll)
 
 }

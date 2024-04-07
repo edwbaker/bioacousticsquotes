@@ -38,11 +38,11 @@
 #' set.seed(1234)
 #' bioacousticsquote()
 #' bioacousticsquote(10)
-#' bioacousticsquote("boggled")
-#' bioacousticsquote(pattern="boggled")
-#' bioacousticsquote(source="Yates")
-#' bioacousticsquote(tag="anova")
-#' print.data.frame(bioacousticsquote(302)) # All information
+#' bioacousticsquote("Seuketat")
+#' bioacousticsquote(pattern="Seuketat")
+#' bioacousticsquote(source="Hempton")
+#' bioacousticsquote(tag="poetry")
+#' print.data.frame(bioacousticsquote(9)) # All information
 #'
 bioacousticsquote <- function(ind=NULL, pattern=NULL, tag=NULL, source=NULL, topic=NULL) {
 
@@ -202,7 +202,7 @@ quote_tags <- function (table = FALSE) {
 #' @seealso \code{\link{as.data.frame.bioacousticsquote}}, \code{\link{as.markdown}}
 #' @examples
 #'
-#' ll <- search_quotes("Tukey")
+#' ll <- search_quotes("Hempton")
 #' as.latex(ll)
 #'
 

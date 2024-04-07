@@ -43,10 +43,10 @@ maintaining the bioacousticsquotes database.  The key names are:
 }
 \examples{
 
-ll <- search_quotes("Tukey")
+ll <- search_quotes("Hempton")
 as.markdown(ll)
 
-qitems <- search_quotes("Yates")
+qitems <- search_quotes("Hempton")
 cat(as.tagged(qitems[1:5,]))
 
 }

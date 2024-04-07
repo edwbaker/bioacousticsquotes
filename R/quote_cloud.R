@@ -21,7 +21,7 @@
 #'   \code{\link{search_quotes}}. \code{\link{wordcloud}}
 #' @examples
 #' quote_cloud()
-#' quote_cloud(search = "graph")
+#' quote_cloud(search = "Hempton")
 #' quote_cloud(max.words = 10)
 #'
 quote_cloud <- function(search = ".*", max.words = 80, colors, ...){
