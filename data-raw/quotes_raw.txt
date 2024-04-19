@@ -30,7 +30,7 @@ cit:1948 The Songs of Insects
 url:https://medium.ebaker.me.uk/bioacoustic-pioneers-g-w-pierce-ca088d9e3b69
 tag:physics,entomology
 
-quo:Pulse is surely the most ill-used term ever taken over by the bio-acoustician
+quo:Pulse is surely the most ill-used term ever taken over by the bio-acoustician.
 src:Broughton
 cit:1963 Busnel
 url:https://medium.ebaker.me.uk/bioacoustic-pioneers-g-w-pierce-ca088d9e3b69
@@ -51,7 +51,7 @@ src:Warren Weaver
 cit:1949 The Mathematical Theory of Communication
 tag:communication
 
-quo:By the warm sunshine, and the jocund voice, Of insects—chirping out their careless lives, On these soft beds of thyme-besprinkled turf
+quo:By the warm sunshine, and the jocund voice, Of insects—chirping out their careless lives, On these soft beds of thyme-besprinkled turf.
 src:William Wordsworth
 cit:The Excursion
 tag:entomology,poetry
@@ -66,7 +66,7 @@ src:Bernie Krause
 cit:The Great Animal Orchestra
 tag:listening
 
-quo:Sound, because it is so intimate, immediate, and physical, is probably the most influential of our senses
+quo:Sound, because it is so intimate, immediate, and physical, is probably the most influential of our senses.
 src:Bernie Krause
 cit:Wild Soundscapes
 tag:listening
@@ -80,3 +80,32 @@ quo:Our problem is that sound is not important in our culture. We know the world
 src:Bernie Krause
 tag:listening
 
+quo: At intervals, some bird from out the brakes, Starts into voice a moment, then is still.
+src:Lord Byron
+cit:Lake Leman
+tag:ornithology,poetry
+
+quo:Or chirps the grasshopper one good-night carol more. He is an evening reveller, who makes, His life an infancy, and sings his fill.
+src:Lord Byron
+cit:Lake Leman
+tag:entomology,poetry
+
+quo:Elate on the fern branch the grasshopper sings, And away in the midst of his roundelay springs.
+src:Hogg
+cit:Address to a Wild Deer
+tag:entomology,poetry
+
+quo:I heard the owls scream, and the crickets cry.
+src:William Shakespeare
+cit:Macbeth
+tag:entomology,ornithology,poetry
+
+quo:There was never a King like Solomon, Not since the world began; But Solomon talked to a butterfly, As a man would talk to a man.
+src:Rudyard Kipling
+cit:The Butterfly that Stamped
+tag:entomology,poetry
+
+quo:Then the little Hiawatha, Learned of every bird its language, Learned their names and all their secrets, How they built their nests in summer, Where they hid themselves in winter, Talked with them whene'er he met them, Called them 'Hiawatha's Chickens.'
+src:Henry Wadsworth Longfellow
+cit:Haiwatha's Childhood
+tag:ornithology,poetry
