@@ -80,3 +80,7 @@ quo:Our problem is that sound is not important in our culture. We know the world
 src:Bernie Krause
 tag:listening
 
+quo:As a lifelong birdwatcher I take particular delight in recording the voices of the skulking forest birds, playing their songs or calls to attract them, and the seeing them (and recording their sounds better) when they come near.
+src:Murrray Gell-Mann
+cit:The Quark and the Jaguar
+tag:listening,ornithology
