@@ -15,10 +15,11 @@
 % The "tag:" line can have multiple tags, separated by commas
 
 % tags can be anything, but here are some to pick from:
+% collections
 % entomology
 % listening
+% museums
 % physics
-% pulse
 % terminology
 
 % ---------------------------------------------------------------------------
@@ -34,7 +35,7 @@ quo:Pulse is surely the most ill-used term ever taken over by the bio-acousticia
 src:Broughton
 cit:1963 Busnel
 url:https://medium.ebaker.me.uk/bioacoustic-pioneers-g-w-pierce-ca088d9e3b69
-tag:pulse,terminology
+tag:terminology
 
 quo:Seuketat is the Eskimo word for ear-of-the-animal. This is what we must become if we want to truly listen.
 src:Gordon Hempton
@@ -109,3 +110,13 @@ quo:Then the little Hiawatha, Learned of every bird its language, Learned their 
 src:Henry Wadsworth Longfellow
 cit:Haiwatha's Childhood
 tag:ornithology,poetry
+
+quo:As a lifelong birdwatcher I take particular delight in recording the voices of the skulking forest birds, playing their songs or calls to attract them, and the seeing them (and recording their sounds better) when they come near.
+src:Murrray Gell-Mann
+cit:The Quark and the Jaguar
+tag:listening,ornithology
+
+quo:I am not sure that I would as yet advocate a museum of odors, but a museum of sound might be not only interesting, but valuable.
+src:Harlan I. Smith
+cit:Science , Aug. 21, 1914, New Series, Vol. 40, No. 1025 (Aug. 21, 1914), pp. 273-274
+tag:collections,museums
