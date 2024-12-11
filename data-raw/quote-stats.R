@@ -2,7 +2,7 @@
 #' title: string characteristics of quotes
 #' ---
 
-library(statquotes)
+library(bioacousticsquotes)
 library(stringr)
 library(dplyr)
 

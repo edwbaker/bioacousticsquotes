@@ -120,3 +120,8 @@ quo:I am not sure that I would as yet advocate a museum of odors, but a museum o
 src:Harlan I. Smith
 cit:Science , Aug. 21, 1914, New Series, Vol. 40, No. 1025 (Aug. 21, 1914), pp. 273-274
 tag:collections,museums
+
+quo:"Very rarely are the tongues of Nature stilled. When they are entirely silent a nameless kind of oppression overtakes the human soul.
+src:Richard Kearton
+cit:At Home With Wild Nature. Cassel and Company, 1922.
+tag:silence
