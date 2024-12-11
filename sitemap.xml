@@ -1,51 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>http://quotes.acousti.cloud/404.html</loc>
-  </url>
-  <url>
-    <loc>http://quotes.acousti.cloud/articles/bioacousticsquotes-database.html</loc>
-  </url>
-  <url>
-    <loc>http://quotes.acousti.cloud/articles/bioaocusticsquotes.html</loc>
-  </url>
-  <url>
-    <loc>http://quotes.acousti.cloud/articles/index.html</loc>
-  </url>
-  <url>
-    <loc>http://quotes.acousti.cloud/authors.html</loc>
-  </url>
-  <url>
-    <loc>http://quotes.acousti.cloud/index.html</loc>
-  </url>
-  <url>
-    <loc>http://quotes.acousti.cloud/reference/as.latex.html</loc>
-  </url>
-  <url>
-    <loc>http://quotes.acousti.cloud/reference/as.markdown.html</loc>
-  </url>
-  <url>
-    <loc>http://quotes.acousti.cloud/reference/bioacousticsquote.html</loc>
-  </url>
-  <url>
-    <loc>http://quotes.acousti.cloud/reference/find_duplicate_quotes.html</loc>
-  </url>
-  <url>
-    <loc>http://quotes.acousti.cloud/reference/index.html</loc>
-  </url>
-  <url>
-    <loc>http://quotes.acousti.cloud/reference/quote_cloud.html</loc>
-  </url>
-  <url>
-    <loc>http://quotes.acousti.cloud/reference/quote_tags.html</loc>
-  </url>
-  <url>
-    <loc>http://quotes.acousti.cloud/reference/quotes.html</loc>
-  </url>
-  <url>
-    <loc>http://quotes.acousti.cloud/reference/read_quotes_raw.html</loc>
-  </url>
-  <url>
-    <loc>http://quotes.acousti.cloud/reference/search_quotes.html</loc>
-  </url>
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>http://quotes.acousti.cloud/404.html</loc></url>
+<url><loc>http://quotes.acousti.cloud/articles/bioacousticsquotes-database.html</loc></url>
+<url><loc>http://quotes.acousti.cloud/articles/bioaocusticsquotes.html</loc></url>
+<url><loc>http://quotes.acousti.cloud/articles/index.html</loc></url>
+<url><loc>http://quotes.acousti.cloud/authors.html</loc></url>
+<url><loc>http://quotes.acousti.cloud/index.html</loc></url>
+<url><loc>http://quotes.acousti.cloud/reference/as.latex.html</loc></url>
+<url><loc>http://quotes.acousti.cloud/reference/as.markdown.html</loc></url>
+<url><loc>http://quotes.acousti.cloud/reference/bioacousticsquote.html</loc></url>
+<url><loc>http://quotes.acousti.cloud/reference/find_duplicate_quotes.html</loc></url>
+<url><loc>http://quotes.acousti.cloud/reference/index.html</loc></url>
+<url><loc>http://quotes.acousti.cloud/reference/quote_cloud.html</loc></url>
+<url><loc>http://quotes.acousti.cloud/reference/quote_tags.html</loc></url>
+<url><loc>http://quotes.acousti.cloud/reference/quotes.html</loc></url>
+<url><loc>http://quotes.acousti.cloud/reference/read_quotes_raw.html</loc></url>
+<url><loc>http://quotes.acousti.cloud/reference/search_quotes.html</loc></url>
 </urlset>
+
