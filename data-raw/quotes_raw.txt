@@ -121,7 +121,13 @@ src:Harlan I. Smith
 cit:Science , Aug. 21, 1914, New Series, Vol. 40, No. 1025 (Aug. 21, 1914), pp. 273-274
 tag:collections,museums
 
-quo:"Very rarely are the tongues of Nature stilled. When they are entirely silent a nameless kind of oppression overtakes the human soul.
+quo:Very rarely are the tongues of Nature stilled. When they are entirely silent a nameless kind of oppression overtakes the human soul.
 src:Richard Kearton
 cit:At Home With Wild Nature. Cassel and Company, 1922.
 tag:silence
+
+quo:This high country is just too bleak for some people but it is up there on the empty moors with the curlews crying that I have been able to find peace and tranquility of mind.
+src:James Herriot
+cit:James Herriot's Yorkshire
+tag:ornithology
+
