@@ -131,3 +131,19 @@ src:James Herriot
 cit:James Herriot's Yorkshire
 tag:ornithology
 
+quo:Coming from the state of Brandenbirg, it's a lot for me to even utter a monosyllabic 'morning' at the start of the day.
+src:Madlen Ziege
+cit:Nature is Never Silent
+
+quo:The advantage of acoustic signals is that the transmitter doesn't need to see the receiver in order to exchange information.
+src:Madlen Ziege
+cit:Nature is Never Silent
+
+quo:Anyone hwo has to use their voice a lot every day knows how tiring it can be to send acoustic information.
+src:Madlen Ziege
+cit:Nature is Never Silent
+
+quo:Two things are dead giveaways in nature: one is moving, making a motion, and the other is making a sound … So many actions in our lives, as in the lives of insects and other animals, take their value from and seem to be governed by risk
+src:A. R. Ammons in Forward to Dethier (1992)
+cit:Crickets and Katydids, Concerts and Solos
+url:https://amzn.to/404B52x

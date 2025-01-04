@@ -47,5 +47,3 @@ terms |> table() |> sort(decreasing=TRUE) |> as.data.frame() |> head(10)
 
 #' ## How many quotes have no tags?
 sum(is.na(tags))
-
-
