@@ -131,7 +131,7 @@ src:James Herriot
 cit:James Herriot's Yorkshire
 tag:ornithology
 
-quo:Coming from the state of Brandenbirg, it's a lot for me to even utter a monosyllabic 'morning' at the start of the day.
+quo:Coming from the state of Brandenburg, it's a lot for me to even utter a monosyllabic 'morning' at the start of the day.
 src:Madlen Ziege
 cit:Nature is Never Silent
 
