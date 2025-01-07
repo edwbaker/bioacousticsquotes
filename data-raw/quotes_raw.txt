@@ -147,3 +147,8 @@ quo:Two things are dead giveaways in nature: one is moving, making a motion, and
 src:A. R. Ammons in Forward to Dethier (1992)
 cit:Crickets and Katydids, Concerts and Solos
 url:https://amzn.to/404B52x
+
+quo:Silent, like sorrowing children, the birds have ceased their song, and only the moorhen's plaintive cryand the harsh croak of the corncrake stors the awed hush around the couch of waters, where the dying day breathes out her last.
+src:Jerome K. Jerome
+cit:Three Men in a Boat
+url:https://amzn.to/3DNBjn5
