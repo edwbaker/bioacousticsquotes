@@ -152,3 +152,8 @@ quo:Silent, like sorrowing children, the birds have ceased their song, and only 
 src:Jerome K. Jerome
 cit:Three Men in a Boat
 url:https://amzn.to/3DNBjn5
+
+quo:The birds were doing their best to persuade everyone that it ws dawn, but no one seemed fooled.
+src:Ian Rankin
+cit:Knots and Crosses
+url:https://amzn.to/4lENgMd
