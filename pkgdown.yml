@@ -1,10 +1,10 @@
 pandoc: 3.1.11
-pkgdown: 2.1.1
+pkgdown: 2.1.3
 pkgdown_sha: ~
 articles:
   bioacousticsquotes-database: bioacousticsquotes-database.html
   bioaocusticsquotes: bioaocusticsquotes.html
-last_built: 2025-01-07T13:43Z
+last_built: 2025-08-25T10:13Z
 urls:
   reference: http://quotes.acousti.cloud/reference
   article: http://quotes.acousti.cloud/articles
