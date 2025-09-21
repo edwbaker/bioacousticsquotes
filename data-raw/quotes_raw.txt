@@ -139,7 +139,7 @@ quo:The advantage of acoustic signals is that the transmitter doesn't need to se
 src:Madlen Ziege
 cit:Nature is Never Silent
 
-quo:Anyone hwo has to use their voice a lot every day knows how tiring it can be to send acoustic information.
+quo:Anyone who has to use their voice a lot every day knows how tiring it can be to send acoustic information.
 src:Madlen Ziege
 cit:Nature is Never Silent
 
