@@ -157,3 +157,8 @@ quo:The birds were doing their best to persuade everyone that it ws dawn, but no
 src:Ian Rankin
 cit:Knots and Crosses
 url:https://amzn.to/4lENgMd
+
+quo:The trees beside the hot burn snapped their fingers, and the lapping of the burn itself added the final cadence to the symphony.
+src:Ian Rankin
+cit:The Flood
+url:https://amzn.to/4mrLs9K
