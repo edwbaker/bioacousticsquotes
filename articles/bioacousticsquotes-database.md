@@ -1,0 +1,33 @@
+# Creating, updating & maintaining the bioacousticsquotes data base
+
+``` r
+
+library(bioacousticsquotes)
+```
+
+## Fformat for quotes file
+
+The quotes are stored in the `data-raw/quotes_raw.txt` file. The script
+`data-raw/convert_quotes_to_rda.R` can be used to read these quotes and
+save them to `data/quotes.rda`, which is the main data file used in the
+package.
+
+The `quotes_raw.txt` file uses the following format for each quotation.
+Lines beginning with “%” are comments and ignored. Other lines contain a
+“key:value” pair. The key is used to identify the right column when
+building the `quotes` data.frame:
+
+    % Comment
+    quo: This is a quotation.
+    src: Person or persons who said or wrote the quote.
+    cit: Citation for the original quote.
+    url: URL where the quote can be found (such as journal articles).
+    tag: Comma-separated tags to categorize the quote.
+
+Here is an example:
+
+    quo: A judicious man looks at Statistics, not to get knowledge, but to save himself from having ignorance foisted on him.
+    src: Thomas Carlyle
+    cit: Chartism, 1840, Chapter II, Statistics
+    url: https://en.wikisource.org/wiki/Chartism/Chapter_2
+    tag: data visualization
